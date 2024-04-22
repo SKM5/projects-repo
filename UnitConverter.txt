@@ -1,0 +1,9 @@
+1. Setup an Application
+UnitConverter
+	CUnitConverterApp
+	CUnitConverterWnd
+2. Place a push button with text "Launch lenght converter"
+when clicked on push button it should display modal lenght converter dialog.
+IDD_LENGHT_CONVERTER
+
+3. Write code in dialog class that converts lenght from one unit to another.
