@@ -12,3 +12,8 @@ int Multiply(int x, int y)
 {
   return (x*y);
 }
+
+int Subtract(int x, int y)
+{
+  return (x-y);
+}
