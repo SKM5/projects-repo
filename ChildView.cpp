@@ -1,6 +1,7 @@
 
 // ChildView.cpp : implementation of the CChildView class
 //
+//Adding comment to make new submition within GitHub 
 
 #include "pch.h"
 #include "framework.h"
