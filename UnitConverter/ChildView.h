@@ -2,7 +2,6 @@
 // ChildView.h : interface of the CChildView class
 //
 
-
 #pragma once
 
 
